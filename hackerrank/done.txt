@@ -1,0 +1,22 @@
+Warmup
+Solve me first https://www.hackerrank.com/challenges/solve-me-first
+simple array sum https://www.hackerrank.com/challenges/simple-array-sum
+a very big sum https://www.hackerrank.com/challenges/a-very-big-sum
+diagonal difference https://www.hackerrank.com/challenges/diagonal-difference
+plus-minus https://www.hackerrank.com/challenges/plus-minus
+staircase https://www.hackerrank.com/challenges/staircase
+
+
+Implementation
+angry professor https://www.hackerrank.com/challenges/angry-professor
+sherlock and beast https://www.hackerrank.com/challenges/sherlock-and-the-beast
+utopian tree https://www.hackerrank.com/challenges/utopian-tree
+find digits https://www.hackerrank.com/challenges/find-digits
+sherlock and squares https://www.hackerrank.com/challenges/sherlock-and-squares
+service lane https://www.hackerrank.com/challenges/service-lane
+cut the sticks https://www.hackerrank.com/challenges/cut-the-sticks
+chocolate feast https://www.hackerrank.com/challenges/chocolate-feast
+cavity map https://www.hackerrank.com/challenges/cavity-map
+taum and bday https://www.hackerrank.com/challenges/taum-and-bday
+acm-icpc team https://www.hackerrank.com/challenges/acm-icpc-team
+manasa-and-stones https://www.hackerrank.com/challenges/manasa-and-stones
