@@ -1,0 +1,55 @@
+Dynamic Programming
+
+LIS http://www.geeksforgeeks.org/dynamic-programming-set-3-longest-increasing-subsequence/
+LCS http://www.geeksforgeeks.org/dynamic-programming-set-4-longest-common-subsequence/
+Ugly-Numbers http://www.geeksforgeeks.org/ugly-numbers/
+Edit-Distance http://www.geeksforgeeks.org/dynamic-programming-set-5-edit-distance/
+Min-Cost-Path  http://www.geeksforgeeks.org/dynamic-programming-set-6-min-cost-path/
+Binomial-Coeficient  http://www.geeksforgeeks.org/dynamic-programming-set-9-binomial-coefficient/
+Largest sum contiguous subarray http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+maximum size sub matrix with all 1's http://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/
+minimum jumps to reach end http://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/
+nth fibo number http://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
+floyd-warshall http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm/
+cutting a rod  http://www.geeksforgeeks.org/dynamic-programming-set-13-cutting-a-rod/
+knapsack 0-1 http://www.geeksforgeeks.org/dynamic-programming-set-10-0-1-knapsack-problem/
+
+
+Trees
+
+Tree traversals pointer implementation http://www.geeksforgeeks.org/618/
+Tree size pointer implementation http://www.geeksforgeeks.org/write-a-c-program-to-calculate-size-of-a-tree/
+Tree identical pointer implementation http://www.geeksforgeeks.org/write-c-code-to-determine-if-two-trees-are-identical/
+Tree height pointer implementation http://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/
+Tree deletion pointer implementation http://www.geeksforgeeks.org/write-a-c-program-to-delete-a-tree/
+Tree to mirror pointer implementation http://www.geeksforgeeks.org/write-an-efficient-c-function-to-convert-a-tree-into-its-mirror-tree/
+Tree all root to leaf paths pointer implementation http://www.geeksforgeeks.org/given-a-binary-tree-print-out-all-of-its-root-to-leaf-paths-one-per-line/
+lcs in bst pointer implementation http://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/
+Level-order-traversal pointer implementation http://www.geeksforgeeks.org/level-order-tree-traversal/
+number of leaf nodes in a binary tree pointer implementation http://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/
+check for children sum property in binary tree pointer implementation http://www.geeksforgeeks.org/check-for-children-sum-property-in-a-binary-tree/
+convert to children sum property pointer implementation http://www.geeksforgeeks.org/convert-an-arbitrary-binary-tree-to-a-tree-that-holds-children-sum-property
+diameter of binary tree pointer implementation http://www.geeksforgeeks.org/diameter-of-a-binary-tree/
+How to determine if binary tree is balanced or not pointer implementation http://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/
+inorder tree traversal without recursion http://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/
+root to leaf path sum equal to n http://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number
+
+
+Maths
+reverse digits http://www.geeksforgeeks.org/write-a-c-program-to-reverse-digits-of-a-number/
+add two numbers in base 14 http://www.geeksforgeeks.org/write-a-program-to-add-two-numbers-in-base-14/
+
+
+
+Array
+key-pair http://www.geeksforgeeks.org/write-a-c-program-that-given-a-set-a-of-n-numbers-and-another-number-x-determines-whether-or-not-there-exist-two-elements-in-s-whose-sum-is-exactly-x/
+majority element http://www.geeksforgeeks.org/majority-element/
+element occurring odd number of time http://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/
+convert an array to reduced form http://www.geeksforgeeks.org/convert-array-reduced-form/
+sort array according to another array http://www.geeksforgeeks.org/sort-array-according-order-defined-another-array/
+find the element that appears once http://www.geeksforgeeks.org/find-the-element-that-appears-once/
+
+
+Stack
+check for balanced parenthesis http://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
+next greater element http://www.geeksforgeeks.org/next-greater-element/

@@ -1,0 +1,9 @@
+Dynamic Programming
+
+http://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-characters/
+http://www.geeksforgeeks.org/dynamic-programming-set-7-coin-change/
+http://www.geeksforgeeks.org/dynamic-programming-set-8-matrix-chain-multiplication/
+
+
+Trees
+http://www.geeksforgeeks.org/the-great-tree-list-recursion-problem/ 
