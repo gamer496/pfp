@@ -6,4 +6,8 @@ http://www.geeksforgeeks.org/dynamic-programming-set-8-matrix-chain-multiplicati
 
 
 Trees
-http://www.geeksforgeeks.org/the-great-tree-list-recursion-problem/ 
+http://www.geeksforgeeks.org/the-great-tree-list-recursion-problem/
+
+Arrays
+Different methods of array rotation.   Not important
+http://www.geeksforgeeks.org/check-for-majority-element-in-a-sorted-array/
