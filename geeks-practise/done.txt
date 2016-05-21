@@ -57,6 +57,13 @@ leaders in array http://www.geeksforgeeks.org/leaders-in-an-array/
 segregate 0 and 1 http://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/
 maximum-difference-between-two-elements http://www.geeksforgeeks.org/maximum-difference-between-two-elements/
 union and intersection of two sorted arrays http://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
+a-product-array-puzzle http://www.geeksforgeeks.org/a-product-array-puzzle/
+find-the-two-repeating-elements-in-a-given-array http://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/
+equilibrium-index-of-an-array http://www.geeksforgeeks.org/equilibrium-index-of-an-array/
+check-if-array-elements-are-consecutive www.geeksforgeeks.org/check-if-array-elements-are-consecutive/
+find-the-first-missing-number www.geeksforgeeks.org/find-the-first-missing-number/
+find-the-minimum-distance-between-two-numbers http://www.geeksforgeeks.org/find-the-minimum-distance-between-two-numbers/
+
 
 
 Stack

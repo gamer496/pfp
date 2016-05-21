@@ -4,3 +4,5 @@
 	http://www.geeksforgeeks.org/convert-an-arbitrary-binary-tree-to-a-tree-that-holds-children-sum-property/
 3.)Diameter of binary tree pointer implementation
 	http://www.geeksforgeeks.org/diameter-of-a-binary-tree/
+4.) Find smallest missing element binary search O(logn)
+	www.geeksforgeeks.org/find-the-first-missing-number/
