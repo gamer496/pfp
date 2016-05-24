@@ -13,3 +13,6 @@ Different methods of array rotation.   Not important
 http://www.geeksforgeeks.org/check-for-majority-element-in-a-sorted-array/
 http://www.geeksforgeeks.org/segregate-even-and-odd-numbers/   Not important
 http://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/ Not important
+
+Linked Lists
+http://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/

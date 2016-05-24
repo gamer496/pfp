@@ -69,3 +69,8 @@ find-the-minimum-distance-between-two-numbers http://www.geeksforgeeks.org/find-
 Stack
 check for balanced parenthesis http://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
 next greater element http://www.geeksforgeeks.org/next-greater-element/
+
+
+Linked lists
+write-a-function-to-get-nth-node-in-a-linked-list http://www.geeksforgeeks.org/write-a-function-to-get-nth-node-in-a-linked-list/
+write-a-c-function-to-print-the-middle-of-the-linked-list http://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/
