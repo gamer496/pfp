@@ -17,3 +17,4 @@ http://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space
 Linked Lists
 http://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/ Not Important
 in-a-linked-list-given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it not important
+http://www.geeksforgeeks.org/memory-efficient-doubly-linked-list/
