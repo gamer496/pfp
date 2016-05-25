@@ -74,3 +74,6 @@ next greater element http://www.geeksforgeeks.org/next-greater-element/
 Linked lists
 write-a-function-to-get-nth-node-in-a-linked-list http://www.geeksforgeeks.org/write-a-function-to-get-nth-node-in-a-linked-list/
 write-a-c-function-to-print-the-middle-of-the-linked-list http://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/
+nth-node-from-the-end-of-a-linked-list http://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/
+write-a-function-to-delete-a-linked-list http://www.geeksforgeeks.org/write-a-function-to-delete-a-linked-list/
+write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list http://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/
