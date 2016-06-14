@@ -80,3 +80,8 @@ write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-
 write-a-c-function-to-detect-loop-in-a-linked-list https://www.freelancer.com/projects/php/Write-some-Software-10604515/
 function-to-check-if-a-singly-linked-list-is-palindrome http://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/
 given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way http://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/
+
+Graph
+detect-cycle-undirected-graph http://www.geeksforgeeks.org/detect-cycle-undirected-graph/
+find-if-there-is-a-path-between-two-vertices-in-a-given-graph http://www.geeksforgeeks.org/find-if-there-is-a-path-between-two-vertices-in-a-given-graph/
+greedy-algorithms-set-6-dijkstras-shortest-path-algorithm http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/
