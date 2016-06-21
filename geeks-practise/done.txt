@@ -23,8 +23,8 @@ Tree identical pointer implementation http://www.geeksforgeeks.org/write-c-code-
 Tree height pointer implementation http://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/
 Tree deletion pointer implementation http://www.geeksforgeeks.org/write-a-c-program-to-delete-a-tree/
 Tree to mirror pointer implementation http://www.geeksforgeeks.org/write-an-efficient-c-function-to-convert-a-tree-into-its-mirror-tree/
-Tree all root to leaf paths pointer implementation http://www.geeksforgeeks.org/given-a-binary-tree-print-out-all-of-its-root-to-leaf-paths-one-per-line/
 lcs in bst pointer implementation http://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/
+Tree all root to leaf paths pointer implementation http://www.geeksforgeeks.org/given-a-binary-tree-print-out-all-of-its-root-to-leaf-paths-one-per-line/
 Level-order-traversal pointer implementation http://www.geeksforgeeks.org/level-order-tree-traversal/
 number of leaf nodes in a binary tree pointer implementation http://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/
 check for children sum property in binary tree pointer implementation http://www.geeksforgeeks.org/check-for-children-sum-property-in-a-binary-tree/
@@ -33,6 +33,7 @@ diameter of binary tree pointer implementation http://www.geeksforgeeks.org/diam
 How to determine if binary tree is balanced or not pointer implementation http://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/
 inorder tree traversal without recursion http://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/
 root to leaf path sum equal to n http://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number
+construct-tree-from-given-inorder-and-preorder-traversal http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/
 
 
 Maths
@@ -80,8 +81,22 @@ write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-
 write-a-c-function-to-detect-loop-in-a-linked-list https://www.freelancer.com/projects/php/Write-some-Software-10604515/
 function-to-check-if-a-singly-linked-list-is-palindrome http://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/
 given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way http://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/
+in-a-linked-list-given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it http://www.geeksforgeeks.org/in-a-linked-list-given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/
+write-a-function-to-reverse-the-nodes-of-a-linked-list http://www.geeksforgeeks.org/write-a-function-to-reverse-the-nodes-of-a-linked-list/
+given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way http://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/
+write-a-function-to-get-the-intersection-point-of-two-linked-lists http://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/
+remove-duplicates-from-a-sorted-linked-list http://www.geeksforgeeks.org/remove-duplicates-from-a-sorted-linked-list/
+move-last-element-to-front-of-a-given-linked-list http://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/
+pairwise-swap-elements-of-a-given-linked-list http://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/
 
 Graph
 detect-cycle-undirected-graph http://www.geeksforgeeks.org/detect-cycle-undirected-graph/
 find-if-there-is-a-path-between-two-vertices-in-a-given-graph http://www.geeksforgeeks.org/find-if-there-is-a-path-between-two-vertices-in-a-given-graph/
 greedy-algorithms-set-6-dijkstras-shortest-path-algorithm http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/
+applications-of-depth-first-search http://www.geeksforgeeks.org/applications-of-depth-first-search/
+depth-first-traversal-for-a-graph http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/
+breadth-first-traversal-for-a-graph http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/
+find-number-of-islands www.geeksforgeeks.org/find-number-of-islands/
+graph-and-its-representations http://www.geeksforgeeks.org/graph-and-its-representations/
+transitive-closure-of-a-graph http://www.geeksforgeeks.org/transitive-closure-of-a-graph/
+topological-sorting http://www.geeksforgeeks.org/topological-sorting/

@@ -18,3 +18,8 @@ Linked Lists
 http://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/ Not Important
 in-a-linked-list-given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it not important
 http://www.geeksforgeeks.org/memory-efficient-doubly-linked-list/
+
+Graph
+detect-cycle-in-a-directed-graph http://www.geeksforgeeks.org/detect-cycle-in-a-graph/
+shortest-path-for-directed-acyclic-graphs http://www.geeksforgeeks.org/shortest-path-for-directed-acyclic-graphs/
+strongly-connected-components http://www.geeksforgeeks.org/strongly-connected-components/
