@@ -1,0 +1,4 @@
+Trees
+convert to children sum property pointer implementation http://www.geeksforgeeks.org/convert-an-arbitrary-binary-tree-to-a-tree-that-holds-children-sum-property
+diameter of binary tree pointer implementation http://www.geeksforgeeks.org/diameter-of-a-binary-tree/
+How to determine if binary tree is balanced or not pointer implementation http://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/
