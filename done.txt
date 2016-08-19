@@ -193,6 +193,21 @@ nd:
 162
 
 
+HARD:
+
+129
+166
+380
+700157
+1233
+514
+700138
+
+nd:
+700144 (set 3 is best solution)
+1240
+
+
 To study:
 Merge sort
 quick sort
