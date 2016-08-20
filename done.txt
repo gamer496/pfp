@@ -218,3 +218,30 @@ largest rectangle in histogram
 BST deletion
 Iterative methods of trees
 catalan number
+max rectangle in histogram
+length of longest ap in a sorted array
+segment tree
+
+
+
+
+
+Interview Experience:
+
+Set No.         Status              problems discovered             Thougts
+298             Done without os         os weak                     too much os asked
+297             Done                    no os asked                 no os asked
+295             Done but hard           Holy shit my theory sucks   too much theory asked
+293             Done easy               none                        this is wrong some interviews are way too easy and some are hard
+291             Done easy-medium        none                        really easy one
+288             Done medium             none                        medium one no os only one networking
+287             Done medium-hard        Networking and os weak      both networking and os asked WTF
+285             Done medium             Os weak                     I need to study os
+283             Done medium-hard        DS/Algo can be difficult    First interview in which ds/algo was really hard I may not have been able to do it all
+282             Done easy               none                        Easy one
+278             Done easy               none                        Easy one
+276             Done easy               none                        Easy one
+274             Done medium             DBMS                        dbms can be asked
+273             Done easy               none                        let's hope mine is this easy
+272             Done medium             DBMS                        fuck dbms is being asked to many
+258             Done medium             DBMS                        gotta study bit of dbms too
