@@ -1,3 +1,7 @@
+Leetcode:
+193 done
+
+
 School:
 
 COMPLETE
@@ -221,6 +225,7 @@ catalan number
 max rectangle in histogram
 length of longest ap in a sorted array
 segment tree
+egg dropping puzzle
 
 
 
@@ -245,3 +250,26 @@ Set No.         Status              problems discovered             Thougts
 273             Done easy               none                        let's hope mine is this easy
 272             Done medium             DBMS                        fuck dbms is being asked to many
 258             Done medium             DBMS                        gotta study bit of dbms too
+253             Done easy               none                        Easy one
+247             Done easy               none                        Easy one
+246             Done easy               none                        Easy one
+231             Done easy-medium        none                        Easy one os asked but I now have read os
+230             Done easy               none                        Easy one
+229             Done easy               none                        First interview in which theory of computation was also asked
+226             Done easy               none                        Easy one
+223             Done easy               none                        Easy one
+222             Done easy               none                        Easy one
+220             Done easy               none                        Easy one
+219             Done easy               none                        Easy one
+218             Done easy               none                        Easy one
+
+
+
+
+
+Operating systems:
+
+
+nd:
+paging
+segmentation
